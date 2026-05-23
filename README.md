@@ -1,5 +1,7 @@
 # virtual-pet-html
 
+(https://raw.githubusercontent.com/jwalmirdejesus-netizen/virtual-pet-html/main/Screenshot_20260523-112756.jpg)
+
 ![status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
 ![version](https://img.shields.io/badge/version-0.3.0--alpha-orange)
 ![license](https://img.shields.io/badge/license-MIT-blue)

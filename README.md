@@ -18,12 +18,6 @@ Tamagotchi virtual completo com personalização de sprites, sons chiptune, mini
 - [x] 4 minigames
 - [x] Salvamento local
 
-**Em andamento:**
-- [ ] Balanceamento da economia
-- [ ] Sons personalizados
-- [ ] Modo multiplayer local
-- [ ] Versão PWA para instalar no celular
-
 **Roadmap:** v0.4 → loja | v0.5 → conquistas | v1.0 → release
 
 ## Como jogar

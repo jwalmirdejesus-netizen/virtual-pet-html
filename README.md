@@ -27,5 +27,30 @@ Tamagotchi virtual completo com personalização de sprites, sons chiptune, mini
 3. Cuide e jogue os minigames
 Tamagotchi virtual completo com personalização de sprites, sons chiptune, minigames (quiz, flappy, tetris, dungeon), sistema de saúde/idade, economia, salas compráveis e salvamento local. Jogue direto no navegador.
 
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+![virtual-pet-html]
+
+
 
 

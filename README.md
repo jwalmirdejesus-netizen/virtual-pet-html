@@ -41,7 +41,7 @@ Tamagotchi virtual completo com personalização de sprites, sons chiptune, mini
 
 ![virtual-pet-html](Screenshot_20260909-141305.jpg)
 
-![virtual-pet-html]
+![virtual-pet-html](Screenshot_20260909-141309.jpg)
 
 ![virtual-pet-html]
 
